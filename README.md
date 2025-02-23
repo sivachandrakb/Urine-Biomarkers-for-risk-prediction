@@ -45,15 +45,6 @@ This research explores **urine biomarker profiling** to enhance the accuracy of 
 3. **Model Processing**: AI-driven risk assessment  
 4. **Output**: Urolithiasis risk category with confidence score  
 
-### 📌 Example Prediction:  
-| **Patient ID** | **Oxalate (mg/L)** | **Citrate (mg/L)** | **Calcium (mg/L)** | **Risk Level** | **Confidence Score** |
-|---------------|----------------|----------------|--------------|------------|------------------|
-| 2001 | 45 | 320 | 125 | High | 93.5% |
-| 2002 | 32 | 290 | 110 | Medium | 85.2% |
-| 2003 | 15 | 250 | 95 | Low | 89.7% |
-
-📢 _Note: Replace with actual model predictions._
-
 ---
 
 ## 📖 Citation  
